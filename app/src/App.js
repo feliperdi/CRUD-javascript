@@ -19,7 +19,7 @@ function App() {
   const [data, setData] = useState();
   const [showConfirmDeleteCard, setShowConfirmDeleteCard] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(true);
+  const [error, setError] = useState(false);
   const [items, setItems] = useState(null);
   const [filterItems, setFilterItems]= useState(items);
   const [category, setCategory] = useState(null);
