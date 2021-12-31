@@ -8,4 +8,8 @@
  ### What have I learn
   Having a clear goal and keep thing simple can really improve my performance and using styled-components or other css libraries can less the time I spend in a project.
   
- ### live version: 
+ ### LIVE VERSION: 
+ 
+ ### HOW TO RUN THIS PROJECT: 
+  you will need nodejs 16 and npm.
+  
