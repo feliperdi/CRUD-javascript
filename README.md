@@ -10,6 +10,14 @@
   
  ### LIVE VERSION: 
  
- ### HOW TO RUN THIS PROJECT: 
-  you will need nodejs 16 and npm.
-  
+### Technologies that I used:
++ nodeJs 16.11
++ react 11.2
++ axios
++ styled-components
+
+### How to run the application:
+You will need nodeJs 16.11 and npm to run this application.
+
++ run npm install
++ run npm start.
