@@ -8,7 +8,7 @@
  ### What have I learn
   Having a clear goal and keep thing simple can really improve my performance and using styled-components or other css libraries can less the time I spend in a project.
   
- ### LIVE VERSION: [Here](frequent-swing.surge.sh)
+ ### LIVE VERSION: frequent-swing.surge.sh/
  
 ### Technologies that I used:
 + nodeJs 16.11
